@@ -8,7 +8,7 @@ A complete end-to-end data-driven solution for inventory analytics and decision 
 
 Access the real-time web dashboard hosted separately:
 
-🔗 [Urban Retail Dashboard (Live)](https://nwesha.github.io/Dashboard_urbanco_inventory_optimised/)
+🔗 [UrbanCo Inventory Management Dashboard (Live)](https://nwesha.github.io/Dashboard_urbanco_inventory_optimised/)
 *(Hosted on a different repo with frontend + JSON integration)*
 
 ---
@@ -46,7 +46,7 @@ All scripts are modular and can be executed independently.
 
 ## 📄 Documentation
 
-* **[SQL Documentation](./sql_Documentation.docx)** — technical breakdown of schema, views, and queries
+* **[SQL Documentation](./sql-documentation.docx)** — technical breakdown of schema, views, and queries
 * **[Executive Report](./Executive%20Report%20(Insights%20and%20Recommendations).docx)** — visual, business-oriented interpretation of outputs
 * **[ER Diagram](./ERD.pdf)** — visual map of database structure
 
