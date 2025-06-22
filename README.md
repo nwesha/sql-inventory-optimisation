@@ -33,17 +33,6 @@ Access the real-time web dashboard hosted separately:
 
 ---
 
-## 📁 SQL Execution Guide
-
-1. Run `urban-retail-schema.sql` to create tables.
-2. Use `data-loading-scripts.sql` to ingest and validate data.
-3. Execute `core-analytics-queries.sql` to generate analytic views.
-4. Deploy `dashboard-report-queries.sql` for dashboard-ready summaries.
-
-All scripts are modular and can be executed independently.
-
----
-
 ## 📄 Documentation
 
 * **[SQL Documentation](./sql-documentation.docx)** — technical breakdown of schema, views, and queries
